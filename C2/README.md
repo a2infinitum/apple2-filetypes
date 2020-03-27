@@ -20,7 +20,7 @@ Each frame has the following format:
 |  Offset  |	Length	 | Description                                         |
 |----------|-------------|-----------------------------------------------------|
 |  +$0000  |  	long (4) | length of frame data in bytes including itself      |
-|  +$0002  |    ...      | the animation data                                  |
+|  +$0004  |    ...      | the animation data                                  |
 
 ### Animation data
 Each value is a pair of words (2 bytes each in Apple IIgs endian)
