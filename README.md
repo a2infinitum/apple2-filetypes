@@ -327,3 +327,7 @@ A list of known filetypes for the Apple II computer
 |$FD||VAR|AppleSoft BASIC variables|
 |$FE||REL|Relocatable code|
 |$FF||SYS|ProDOS 8 application|
+
+
+## References
+[https://web.archive.org/web/20060225075105/http://www.a2central.com/programming/filetypes/index.html]
