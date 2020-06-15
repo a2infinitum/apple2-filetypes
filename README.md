@@ -254,7 +254,8 @@ A list of known filetypes for the Apple II computer
 |$C5|$C004||[Application Specific]|
 |$C5|$C005||[Application Specific]|
 |$C5|$C006||DYOH: Landscape Document [Application Specific]|
-|$C5|$C007||PyWare Document [Application-Specific]|
+|$C5|$C007||PyWare Document [Application Specific]|
+|$C5|$C008||Animasia 3-D Project [Application Specific]|
 |$C6||SCR|Script [Application Specific]|
 |$C6|$8001||[Application Specific]|
 |$C7||CDV|Control Panel document [Not loaded if bit 15 set]|
