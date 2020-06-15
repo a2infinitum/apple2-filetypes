@@ -51,6 +51,7 @@ Notes:
 - [Paintworks Gold](http://www.whatisthe2gs.apple2.org.za/paintworks-gold)
 - [DreamGrafix](http://www.whatisthe2gs.apple2.org.za/dream-grafix)
 - [PicViewer](http://www.brutaldeluxe.fr/products/apple2gs/picviewer.html)
+- [Animasia 3-D](http://www.whatisthe2gs.apple2.org.za/animasia-3d)
 - Jason Harper's AnimShow
 
 ## References
